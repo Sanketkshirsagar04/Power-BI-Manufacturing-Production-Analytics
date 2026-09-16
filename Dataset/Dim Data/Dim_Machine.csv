@@ -1,0 +1,39 @@
+MachineKey,MachineCode,MachineName,PlantKey,MachineType,Manufacturer,InstallationYear,CapacityPerHour,EfficiencyTarget,Status
+1,MC-001,SMT Assembly Line 01,1,SMT Line,Fuji,2015,180,98,Running
+2,MC-002,SMT Assembly Line 02,1,SMT Line,Fuji,2016,180,98,Running
+3,MC-003,PCB Inspection Station,1,Inspection,Omron,2017,160,97,Running
+4,MC-004,Monitor Assembly Line,1,Assembly,Panasonic,2018,140,97,Running
+5,MC-005,Display Calibration Unit,1,Calibration,Konica Minolta,2019,130,99,Running
+6,MC-006,Packaging Line A,1,Packaging,Bosch,2020,220,99,Running
+7,MC-007,SMT Assembly Line 03,2,SMT Line,Fuji,2016,175,97,Running
+8,MC-008,PCB Inspection Station,2,Inspection,Omron,2017,160,97,Running
+9,MC-009,Monitor Assembly Line,2,Assembly,Panasonic,2018,145,97,Running
+10,MC-010,Display Calibration Unit,2,Calibration,Konica Minolta,2019,125,98,Running
+11,MC-011,Packaging Line B,2,Packaging,Bosch,2020,210,99,Running
+12,MC-012,Projector Assembly Line,3,Assembly,Hitachi,2015,120,95,Running
+13,MC-013,Lens Calibration Station,3,Calibration,Canon,2018,110,98,Running
+14,MC-014,Laser Testing Machine,3,Testing,Keyence,2019,90,98,Running
+15,MC-015,Packaging Line C,3,Packaging,Bosch,2021,180,99,Running
+16,MC-016,PCB Inspection Unit,3,Inspection,Omron,2017,150,96,Running
+17,MC-017,Interactive Display Assembly,4,Assembly,Panasonic,2018,95,97,Running
+18,MC-018,Touch Panel Tester,4,Testing,Keyence,2020,85,99,Running
+19,MC-019,Packaging Line D,4,Packaging,Bosch,2021,170,99,Running
+20,MC-020,Quality Inspection Station,4,Inspection,Omron,2019,100,98,Running
+21,MC-021,Accessory Assembly Line,5,Assembly,Bosch,2017,200,96,Running
+22,MC-022,Cable Testing Machine,5,Testing,Fluke,2020,190,98,Running
+23,MC-023,Packaging Line E,5,Packaging,Bosch,2021,210,99,Running
+24,MC-024,Barcode Inspection,5,Inspection,Zebra,2022,240,99,Running
+25,MC-025,Power Adapter Assembly,6,Assembly,Panasonic,2018,180,97,Running
+26,MC-026,Electrical Testing,6,Testing,Fluke,2019,175,98,Running
+27,MC-027,Packaging Line F,6,Packaging,Bosch,2021,200,99,Running
+28,MC-028,Visual Inspection,6,Inspection,Keyence,2020,165,98,Running
+29,MC-029,Final Assembly Line,7,Assembly,Bosch,2020,150,98,Running
+30,MC-030,Packaging Line G,7,Packaging,Bosch,2021,210,99,Running
+31,MC-031,Quality Inspection,7,Inspection,Omron,2022,170,99,Running
+32,MC-032,Automated Testing,7,Testing,Keyence,2022,165,99,Running
+33,MC-033,Prototype Assembly,8,Assembly,Panasonic,2022,80,99,Running
+34,MC-034,R&D Testing Machine,8,Testing,Keyence,2023,70,99,Running
+35,MC-035,Prototype Packaging,8,Packaging,Bosch,2023,120,99,Running
+36,MC-036,Vision Inspection,8,Inspection,Omron,2023,130,99,Running
+37,MC-037,Burn-in Testing,8,Testing,Advantest,2023,95,99,Running
+38,MC-038,Automated Conveyor,8,Material Handling,Siemens,2023,250,99,Running

@@ -1,0 +1,4 @@
+ShiftKey,ShiftCode,ShiftName,StartTime,EndTime,DurationHours,Status
+1,SH-01,Morning Shift,06:00,14:00,8,Active
+2,SH-02,Evening Shift,14:00,22:00,8,Active
+3,SH-03,Night Shift,22:00,06:00,8,Active

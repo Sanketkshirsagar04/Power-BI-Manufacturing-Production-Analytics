@@ -1,0 +1,201 @@
+EmployeeKey,EmployeeCode,EmployeeName,Gender,Age,Department,JobTitle,PlantKey,ExperienceYears,Education,EmploymentType,SalaryUSD,HireYear,Status
+1,EMP-0001,John Moore,Male,36,Production,Operator I,2,22,High School,Contract,46165,2008,Active
+2,EMP-0002,Mark Anderson,Male,57,Production,Operator I,7,8,Master,Full-Time,42851,2013,Active
+3,EMP-0003,George Moore,Male,35,Warehouse,Warehouse Supervisor,2,3,Master,Full-Time,89052,2019,Active
+4,EMP-0004,Ella Williams,Female,56,Quality,Quality Inspector,7,3,Bachelor,Full-Time,117674,2014,Active
+5,EMP-0005,Robert Anderson,Female,27,Production,Operator I,2,13,Bachelor,Contract,89819,2013,Active
+6,EMP-0006,Edward Wilson,Female,26,Maintenance,Maintenance Technician,4,6,Master,Contract,77382,2025,Active
+7,EMP-0007,Sophia Lee,Male,36,Production,Operator I,6,13,Bachelor,Full-Time,69653,2018,Active
+8,EMP-0008,Olivia Young,Female,51,Production,Operator I,5,5,Diploma,Full-Time,118622,2021,Active
+9,EMP-0009,Jason Anderson,Male,54,Warehouse,Warehouse Supervisor,2,25,High School,Full-Time,62033,2013,Active
+10,EMP-0010,Noah Jones,Female,46,Warehouse,Warehouse Supervisor,5,18,High School,Full-Time,112381,2016,Active
+11,EMP-0011,Joseph Jackson,Female,32,Maintenance,Maintenance Engineer,1,24,Bachelor,Full-Time,108542,2011,Active
+12,EMP-0012,Grace Allen,Male,31,Quality,Quality Engineer,3,18,High School,Full-Time,106042,2008,Active
+13,EMP-0013,Jason Martin,Male,25,Production,Operator I,2,3,Master,Full-Time,111822,2012,Active
+14,EMP-0014,Emma Walker,Male,38,Production,Production Supervisor,7,7,Diploma,Full-Time,94296,2019,Active
+15,EMP-0015,Zachary Lewis,Male,37,Procurement,Procurement Executive,2,11,High School,Full-Time,119128,2015,Active
+16,EMP-0016,William Brown,Male,26,Production,Operator I,6,3,Diploma,Full-Time,105624,2014,Active
+17,EMP-0017,Thomas Green,Female,37,Engineering,Process Engineer,7,7,High School,Full-Time,98498,2019,Active
+18,EMP-0018,Nathan Robinson,Male,28,Warehouse,Warehouse Associate,7,24,Bachelor,Full-Time,74591,2014,Active
+19,EMP-0019,Christian Lewis,Male,49,Production,Operator I,5,15,Diploma,Full-Time,100082,2025,Active
+20,EMP-0020,Michael Wright,Male,27,Production,Operator I,3,14,Master,Contract,70016,2020,Active
+21,EMP-0021,Daniel Harris,Male,46,Production,Operator II,8,10,Master,Contract,62289,2014,Active
+22,EMP-0022,Mark Brown,Male,42,Quality,Quality Inspector,1,19,Master,Full-Time,49455,2024,Active
+23,EMP-0023,Lily Lopez,Male,60,Production,Operator I,4,13,High School,Full-Time,117880,2009,Active
+24,EMP-0024,Nathan Baker,Female,38,Production,Operator I,6,8,Bachelor,Contract,59154,2017,Active
+25,EMP-0025,Brian Jones,Male,51,Procurement,Procurement Executive,2,18,Diploma,Full-Time,59361,2019,Active
+26,EMP-0026,Steven White,Female,32,Production,Operator II,5,20,High School,Full-Time,55577,2012,Active
+27,EMP-0027,Joseph Miller,Male,39,Quality,Quality Engineer,4,23,Bachelor,Full-Time,76600,2024,Active
+28,EMP-0028,Paul Brown,Male,49,Procurement,Procurement Manager,1,1,Bachelor,Full-Time,76335,2013,Active
+29,EMP-0029,Patrick Ramirez,Male,29,Procurement,Procurement Executive,3,18,High School,Full-Time,118350,2025,Active
+30,EMP-0030,Aaron Rodriguez,Male,41,Production,Operator II,1,12,Diploma,Full-Time,55473,2019,Active
+31,EMP-0031,Chloe Clark,Male,37,Engineering,Manufacturing Engineer,3,14,High School,Full-Time,85540,2021,Active
+32,EMP-0032,Andrew Hernandez,Male,46,Production,Operator I,8,8,Diploma,Contract,87830,2017,Active
+33,EMP-0033,Donald Johnson,Male,47,Production,Operator II,5,3,Bachelor,Full-Time,108768,2020,Active
+34,EMP-0034,George Johnson,Male,38,Engineering,Manufacturing Engineer,5,2,High School,Contract,87309,2018,Active
+35,EMP-0035,Noah Allen,Male,46,Warehouse,Warehouse Associate,5,2,Master,Full-Time,110146,2025,Active
+36,EMP-0036,Jason Ramirez,Male,43,Production,Production Supervisor,6,22,High School,Full-Time,108469,2017,Active
+37,EMP-0037,Brian Sanchez,Female,57,Warehouse,Warehouse Associate,4,14,Master,Full-Time,122676,2017,Active
+38,EMP-0038,Patrick Smith,Female,40,Warehouse,Warehouse Associate,7,19,Bachelor,Contract,99905,2022,Active
+39,EMP-0039,Austin Walker,Male,27,Production,Operator II,6,3,Diploma,Full-Time,71444,2014,Active
+40,EMP-0040,John Williams,Male,52,Production,Production Supervisor,2,15,Master,Full-Time,92328,2023,Active
+41,EMP-0041,Steven Martinez,Male,28,Warehouse,Warehouse Supervisor,4,6,Master,Full-Time,115060,2015,Active
+42,EMP-0042,Justin Rodriguez,Female,55,Production,Production Supervisor,6,25,Master,Contract,113810,2022,Active
+43,EMP-0043,Amelia Walker,Female,38,Production,Operator I,5,25,Master,Full-Time,77992,2022,Active
+44,EMP-0044,Mia Jackson,Male,39,Production,Operator II,6,18,High School,Full-Time,61769,2015,Active
+45,EMP-0045,Isabella Martinez,Male,26,Warehouse,Warehouse Supervisor,7,11,Master,Contract,50161,2014,Active
+46,EMP-0046,Ryan Baker,Male,58,Warehouse,Warehouse Supervisor,8,1,Bachelor,Full-Time,93116,2021,Active
+47,EMP-0047,Amelia Wright,Male,53,Engineering,Manufacturing Engineer,5,14,Master,Full-Time,92968,2018,Active
+48,EMP-0048,Charlotte Hernandez,Female,30,Warehouse,Warehouse Associate,7,19,High School,Full-Time,98179,2012,Active
+49,EMP-0049,Matthew Brown,Female,46,Procurement,Procurement Manager,4,15,Bachelor,Full-Time,91692,2016,Active
+50,EMP-0050,Paul Garcia,Female,23,Warehouse,Warehouse Associate,6,8,High School,Full-Time,46067,2015,Active
+51,EMP-0051,Grace Johnson,Male,37,Production,Operator I,8,22,High School,Full-Time,102952,2016,Active
+52,EMP-0052,Daniel Adams,Male,32,Maintenance,Maintenance Engineer,2,19,High School,Full-Time,117470,2020,Active
+53,EMP-0053,Mia Gonzalez,Male,59,Warehouse,Warehouse Associate,2,23,Bachelor,Full-Time,116177,2009,Active
+54,EMP-0054,Christian Ramirez,Female,26,Maintenance,Maintenance Engineer,1,14,Master,Full-Time,98822,2019,Active
+55,EMP-0055,Mia Martinez,Female,33,Procurement,Procurement Manager,8,15,Master,Full-Time,84245,2015,Active
+56,EMP-0056,Andrew Lewis,Male,51,Production,Production Supervisor,7,11,High School,Contract,84600,2013,Active
+57,EMP-0057,Mark Thompson,Female,43,Procurement,Procurement Manager,5,18,High School,Full-Time,53221,2015,Active
+58,EMP-0058,Tyler Scott,Male,52,Warehouse,Warehouse Supervisor,8,1,High School,Full-Time,71045,2020,Active
+59,EMP-0059,Kevin Baker,Female,52,Production,Production Supervisor,6,14,Bachelor,Full-Time,101473,2016,Active
+60,EMP-0060,Paul Anderson,Male,34,Quality,Quality Engineer,2,24,Diploma,Full-Time,70361,2023,Active
+61,EMP-0061,Charlotte Baker,Female,28,Quality,Quality Inspector,5,8,Bachelor,Full-Time,81618,2008,Active
+62,EMP-0062,Thomas Moore,Male,25,Engineering,Process Engineer,3,21,Master,Full-Time,43607,2017,Active
+63,EMP-0063,Brandon Lewis,Female,33,Procurement,Procurement Executive,5,16,High School,Full-Time,94521,2023,Active
+64,EMP-0064,Samuel Brown,Male,31,Production,Production Supervisor,5,3,Diploma,Full-Time,115147,2021,Active
+65,EMP-0065,Evelyn King,Female,50,Production,Operator II,5,19,Master,Full-Time,116531,2009,Active
+66,EMP-0066,Harper Wilson,Male,38,Production,Production Supervisor,2,6,Diploma,Full-Time,114350,2010,Active
+67,EMP-0067,James Clark,Female,60,Production,Operator II,5,2,Diploma,Full-Time,79056,2022,Active
+68,EMP-0068,Sophia Anderson,Female,59,Production,Production Supervisor,4,14,High School,Full-Time,61528,2016,Active
+69,EMP-0069,William Brown,Male,41,Production,Production Supervisor,5,15,High School,Contract,81857,2020,Active
+70,EMP-0070,Austin Wright,Female,50,Quality,Quality Inspector,1,14,Bachelor,Full-Time,45390,2010,Active
+71,EMP-0071,Sophia Green,Male,39,Production,Production Supervisor,1,25,Diploma,Contract,110021,2022,Active
+72,EMP-0072,Matthew Baker,Female,53,Quality,Quality Inspector,8,12,Master,Full-Time,84081,2011,Active
+73,EMP-0073,George Clark,Female,40,Production,Production Supervisor,7,25,High School,Contract,53542,2018,Active
+74,EMP-0074,Brian Davis,Female,54,Quality,Quality Inspector,8,14,High School,Full-Time,109952,2019,Active
+75,EMP-0075,Emily Lewis,Male,35,Procurement,Procurement Manager,3,10,Master,Contract,57915,2008,Active
+76,EMP-0076,Mia Hernandez,Female,57,Production,Operator I,7,3,Diploma,Full-Time,102482,2011,Active
+77,EMP-0077,Tyler Jackson,Female,48,Production,Operator II,8,8,Master,Full-Time,92277,2014,Active
+78,EMP-0078,Amelia Rodriguez,Male,39,Engineering,Process Engineer,6,17,Bachelor,Full-Time,79072,2017,Active
+79,EMP-0079,Chloe Martinez,Female,56,Procurement,Procurement Manager,6,11,Master,Contract,84176,2014,Active
+80,EMP-0080,Samuel Harris,Male,48,Production,Operator I,6,24,Master,Contract,92604,2012,Active
+81,EMP-0081,Robert Rodriguez,Female,28,Procurement,Procurement Manager,2,17,Master,Full-Time,60894,2021,Active
+82,EMP-0082,William Walker,Female,43,Production,Production Supervisor,7,21,High School,Full-Time,111942,2020,Active
+83,EMP-0083,Emily Young,Male,26,Maintenance,Maintenance Technician,5,8,High School,Contract,54903,2011,Active
+84,EMP-0084,Daniel Martin,Male,24,Procurement,Procurement Manager,1,10,Bachelor,Full-Time,98450,2012,Active
+85,EMP-0085,Zachary Clark,Male,32,Production,Operator I,2,20,Master,Full-Time,107230,2012,Active
+86,EMP-0086,Justin Taylor,Female,38,Production,Production Supervisor,1,15,Bachelor,Full-Time,51681,2022,Active
+87,EMP-0087,Benjamin Martin,Female,38,Maintenance,Maintenance Engineer,5,7,Master,Contract,55979,2015,Active
+88,EMP-0088,Samuel Thompson,Female,40,Warehouse,Warehouse Associate,7,9,High School,Full-Time,121482,2023,Active
+89,EMP-0089,Evelyn Anderson,Female,36,Quality,Quality Inspector,5,22,Diploma,Full-Time,124242,2009,Active
+90,EMP-0090,Abigail Lewis,Male,59,Quality,Quality Engineer,3,3,Bachelor,Full-Time,96460,2013,Active
+91,EMP-0091,Thomas Wright,Female,55,Production,Production Supervisor,5,6,Bachelor,Contract,80684,2018,Active
+92,EMP-0092,Justin Jones,Male,36,Production,Production Supervisor,7,18,Bachelor,Full-Time,93717,2008,Active
+93,EMP-0093,Christian Davis,Female,45,Quality,Quality Engineer,7,21,Bachelor,Full-Time,72647,2023,Active
+94,EMP-0094,Logan Scott,Female,36,Production,Production Supervisor,2,21,Master,Full-Time,95516,2011,Active
+95,EMP-0095,Robert Williams,Female,53,Production,Operator I,2,8,Diploma,Contract,101459,2019,Active
+96,EMP-0096,Nathan Baker,Male,48,Engineering,Manufacturing Engineer,8,20,Master,Full-Time,46288,2019,Active
+97,EMP-0097,Adam Lewis,Male,45,Production,Operator I,6,18,Bachelor,Full-Time,94184,2016,Active
+98,EMP-0098,Joseph Robinson,Male,35,Production,Production Supervisor,1,2,Bachelor,Full-Time,58505,2014,Active
+99,EMP-0099,Grace Scott,Male,59,Production,Operator I,4,11,Diploma,Full-Time,78342,2012,Active
+100,EMP-0100,Christian Taylor,Male,29,Production,Production Supervisor,1,5,High School,Full-Time,73186,2018,Active
+101,EMP-0101,Matthew Taylor,Male,30,Production,Production Supervisor,7,17,High School,Full-Time,104422,2022,Active
+102,EMP-0102,Austin Baker,Male,50,Maintenance,Maintenance Technician,1,24,Bachelor,Contract,46082,2009,Active
+103,EMP-0103,Lily Sanchez,Female,28,Procurement,Procurement Manager,8,3,High School,Full-Time,121730,2012,Active
+104,EMP-0104,Thomas Moore,Female,46,Production,Production Supervisor,5,15,Master,Full-Time,56996,2025,Active
+105,EMP-0105,Aaron Lewis,Male,48,Production,Operator II,8,13,Master,Full-Time,82966,2021,Active
+106,EMP-0106,Emma Taylor,Female,31,Maintenance,Maintenance Engineer,2,3,High School,Full-Time,98606,2011,Active
+107,EMP-0107,Ella Rodriguez,Male,59,Maintenance,Maintenance Engineer,2,14,Bachelor,Contract,48743,2017,Active
+108,EMP-0108,Edward Miller,Male,31,Quality,Quality Engineer,4,4,Bachelor,Full-Time,57058,2016,Active
+109,EMP-0109,Ella Ramirez,Male,60,Production,Production Supervisor,5,1,Diploma,Full-Time,82499,2018,Active
+110,EMP-0110,James Lopez,Male,58,Maintenance,Maintenance Engineer,2,5,High School,Full-Time,111531,2014,Active
+111,EMP-0111,Nathan Robinson,Female,32,Warehouse,Warehouse Supervisor,5,24,Bachelor,Full-Time,48895,2012,Active
+112,EMP-0112,Harper Nelson,Male,27,Production,Operator II,8,22,Master,Contract,121570,2022,Active
+113,EMP-0113,Andrew Wilson,Male,44,Warehouse,Warehouse Supervisor,2,10,Master,Full-Time,47952,2015,Active
+114,EMP-0114,Noah Brown,Male,35,Warehouse,Warehouse Supervisor,4,25,Diploma,Full-Time,79938,2018,Active
+115,EMP-0115,James Young,Female,33,Production,Operator I,7,18,Diploma,Full-Time,51447,2020,Active
+116,EMP-0116,Aaron Johnson,Female,26,Production,Operator II,7,19,Master,Contract,79947,2011,Active
+117,EMP-0117,John Lee,Male,51,Warehouse,Warehouse Supervisor,2,14,High School,Full-Time,99104,2020,Active
+118,EMP-0118,David Sanchez,Female,43,Engineering,Manufacturing Engineer,6,25,Diploma,Full-Time,108910,2011,Active
+119,EMP-0119,Austin Gonzalez,Female,44,Engineering,Manufacturing Engineer,4,4,Diploma,Full-Time,67856,2013,Active
+120,EMP-0120,Harper Jones,Male,53,Production,Operator II,8,22,Bachelor,Full-Time,61786,2022,Active
+121,EMP-0121,Brandon Lewis,Female,39,Production,Production Supervisor,1,12,High School,Full-Time,102521,2022,Active
+122,EMP-0122,Michael White,Female,26,Production,Production Supervisor,2,20,Master,Contract,118064,2025,Active
+123,EMP-0123,Adam Green,Male,42,Production,Production Supervisor,8,17,Diploma,Full-Time,101050,2011,Active
+124,EMP-0124,Mia Garcia,Male,24,Maintenance,Maintenance Technician,8,15,Diploma,Full-Time,90870,2017,Active
+125,EMP-0125,Nathan Perez,Male,43,Warehouse,Warehouse Associate,6,4,Master,Full-Time,75029,2012,Active
+126,EMP-0126,David Baker,Male,44,Maintenance,Maintenance Engineer,7,5,High School,Full-Time,115259,2020,Active
+127,EMP-0127,Scarlett Rodriguez,Male,49,Maintenance,Maintenance Engineer,1,12,Bachelor,Full-Time,70074,2018,Active
+128,EMP-0128,Anthony Anderson,Male,31,Procurement,Procurement Executive,5,4,High School,Full-Time,123006,2012,Active
+129,EMP-0129,Charles Hernandez,Male,32,Warehouse,Warehouse Supervisor,1,14,Bachelor,Full-Time,100222,2017,Active
+130,EMP-0130,Donald Wright,Male,41,Procurement,Procurement Manager,4,12,Master,Contract,78932,2020,Active
+131,EMP-0131,Zachary Clark,Male,34,Engineering,Manufacturing Engineer,5,2,Master,Full-Time,114684,2011,Active
+132,EMP-0132,Lily Davis,Female,27,Engineering,Manufacturing Engineer,5,15,Diploma,Contract,54021,2015,Active
+133,EMP-0133,Edward Johnson,Female,25,Procurement,Procurement Manager,6,8,Master,Full-Time,91140,2015,Active
+134,EMP-0134,Brian Miller,Female,31,Production,Operator I,1,10,Master,Full-Time,103487,2022,Active
+135,EMP-0135,David Johnson,Female,35,Production,Operator I,7,4,Bachelor,Full-Time,81472,2011,Active
+136,EMP-0136,Steven Clark,Female,26,Production,Operator I,8,20,High School,Full-Time,60818,2017,Active
+137,EMP-0137,James Nelson,Female,37,Warehouse,Warehouse Supervisor,3,22,High School,Full-Time,50870,2024,Active
+138,EMP-0138,Austin Allen,Male,46,Engineering,Process Engineer,1,21,Master,Full-Time,75246,2008,Active
+139,EMP-0139,Abigail Jones,Female,37,Maintenance,Maintenance Technician,6,5,High School,Full-Time,113567,2018,Active
+140,EMP-0140,Grace Robinson,Female,33,Production,Operator I,2,23,Master,Full-Time,80462,2014,Active
+141,EMP-0141,Abigail Gonzalez,Male,42,Production,Operator II,7,18,Master,Full-Time,46799,2014,Active
+142,EMP-0142,Edward Brown,Female,39,Quality,Quality Inspector,6,14,Master,Contract,92678,2018,Active
+143,EMP-0143,Tyler Young,Female,55,Production,Operator II,2,24,Master,Full-Time,98440,2013,Active
+144,EMP-0144,Joshua Lee,Male,27,Engineering,Process Engineer,5,10,Master,Contract,63842,2022,Active
+145,EMP-0145,Adam Williams,Female,49,Maintenance,Maintenance Engineer,1,3,Master,Full-Time,109251,2013,Active
+146,EMP-0146,Charles Adams,Female,24,Production,Operator I,2,8,Bachelor,Full-Time,92181,2009,Active
+147,EMP-0147,Sophia Lewis,Female,45,Production,Operator II,2,19,Diploma,Full-Time,94171,2018,Active
+148,EMP-0148,Steven Davis,Male,33,Quality,Quality Engineer,7,18,High School,Full-Time,76116,2022,Active
+149,EMP-0149,Logan Jackson,Female,34,Production,Operator I,3,3,Master,Full-Time,100341,2010,Active
+150,EMP-0150,Emma Thompson,Male,57,Maintenance,Maintenance Engineer,5,6,Diploma,Full-Time,108683,2015,Active
+151,EMP-0151,Anthony Rodriguez,Male,53,Production,Operator I,6,18,Bachelor,Contract,114305,2012,Active
+152,EMP-0152,William Martin,Female,52,Production,Production Supervisor,7,25,Master,Full-Time,58426,2018,Active
+153,EMP-0153,Adam Robinson,Female,30,Production,Production Supervisor,3,25,Diploma,Contract,107911,2009,Active
+154,EMP-0154,Zachary Martinez,Female,32,Production,Operator I,6,23,Diploma,Full-Time,110012,2017,Active
+155,EMP-0155,Paul Gonzalez,Female,30,Production,Production Supervisor,5,20,High School,Full-Time,119569,2012,Active
+156,EMP-0156,Emma Nelson,Female,58,Production,Operator I,1,3,High School,Full-Time,69631,2021,Active
+157,EMP-0157,Tyler Wright,Female,41,Production,Operator II,4,22,Master,Full-Time,101446,2010,Active
+158,EMP-0158,Daniel Lewis,Female,52,Production,Operator II,4,11,Diploma,Full-Time,83853,2019,Active
+159,EMP-0159,Thomas White,Male,42,Warehouse,Warehouse Associate,8,4,Bachelor,Contract,74495,2012,Active
+160,EMP-0160,Michael Jackson,Female,48,Production,Operator I,3,11,Bachelor,Full-Time,62885,2023,Active
+161,EMP-0161,Justin Young,Female,53,Engineering,Manufacturing Engineer,2,13,Master,Full-Time,70199,2019,Active
+162,EMP-0162,Michael Jackson,Female,60,Production,Production Supervisor,8,10,High School,Full-Time,98482,2012,Active
+163,EMP-0163,Charlotte White,Female,45,Quality,Quality Inspector,7,2,Diploma,Full-Time,114512,2017,Active
+164,EMP-0164,Ryan Allen,Female,57,Production,Operator II,2,5,High School,Contract,90915,2018,Active
+165,EMP-0165,Jason Martinez,Male,60,Engineering,Process Engineer,1,2,High School,Full-Time,85652,2023,Active
+166,EMP-0166,Justin Martinez,Male,42,Engineering,Process Engineer,3,13,Bachelor,Full-Time,108494,2024,Active
+167,EMP-0167,Tyler Green,Female,52,Engineering,Manufacturing Engineer,6,11,High School,Contract,118507,2017,Active
+168,EMP-0168,Noah Walker,Female,59,Production,Production Supervisor,4,24,High School,Contract,64349,2024,Active
+169,EMP-0169,Charles Thomas,Male,58,Warehouse,Warehouse Associate,4,1,Master,Full-Time,96890,2012,Active
+170,EMP-0170,Isabella Wilson,Female,54,Warehouse,Warehouse Supervisor,1,23,Diploma,Full-Time,115516,2018,Active
+171,EMP-0171,Zachary Harris,Female,33,Procurement,Procurement Manager,6,18,Bachelor,Full-Time,121963,2023,Active
+172,EMP-0172,Steven Moore,Female,36,Production,Operator II,5,23,Diploma,Contract,83555,2023,Active
+173,EMP-0173,Patrick Moore,Female,29,Maintenance,Maintenance Engineer,7,12,Diploma,Full-Time,47513,2017,Active
+174,EMP-0174,Edward Lewis,Female,52,Production,Operator I,4,18,Bachelor,Full-Time,59992,2011,Active
+175,EMP-0175,Steven Brown,Male,36,Production,Operator I,2,14,Bachelor,Contract,55178,2012,Active
+176,EMP-0176,Patrick Hernandez,Female,52,Production,Operator II,4,25,Bachelor,Full-Time,79409,2009,Active
+177,EMP-0177,Olivia Green,Male,56,Production,Production Supervisor,1,6,Master,Full-Time,46763,2020,Active
+178,EMP-0178,Matthew Jackson,Male,22,Procurement,Procurement Manager,2,11,Bachelor,Contract,113211,2024,Active
+179,EMP-0179,Thomas Allen,Female,39,Procurement,Procurement Executive,2,11,Diploma,Contract,75720,2013,Active
+180,EMP-0180,Amelia Perez,Female,58,Production,Production Supervisor,4,6,Master,Contract,109538,2018,Active
+181,EMP-0181,Jacob Miller,Male,30,Production,Operator II,6,8,High School,Full-Time,92275,2015,Active
+182,EMP-0182,Harper Moore,Female,41,Procurement,Procurement Executive,5,21,Bachelor,Full-Time,50142,2011,Active
+183,EMP-0183,Kevin Hernandez,Female,54,Procurement,Procurement Manager,2,21,Bachelor,Full-Time,122560,2015,Active
+184,EMP-0184,Thomas Walker,Male,51,Production,Production Supervisor,6,14,Master,Full-Time,74435,2010,Active
+185,EMP-0185,Adam King,Female,26,Engineering,Manufacturing Engineer,1,18,Diploma,Full-Time,63566,2018,Active
+186,EMP-0186,Adam Davis,Male,59,Engineering,Process Engineer,2,17,Master,Full-Time,101432,2012,Active
+187,EMP-0187,Nathan Robinson,Male,57,Engineering,Process Engineer,5,24,High School,Contract,75352,2008,Active
+188,EMP-0188,Benjamin Jones,Male,49,Production,Operator II,2,18,High School,Full-Time,103875,2009,Active
+189,EMP-0189,Nathan Lopez,Male,48,Quality,Quality Engineer,7,15,Master,Contract,52518,2025,Active
+190,EMP-0190,Olivia Thompson,Male,33,Production,Production Supervisor,7,17,Diploma,Full-Time,42455,2008,Active
+191,EMP-0191,Justin Wright,Female,56,Quality,Quality Engineer,4,8,Master,Full-Time,62332,2016,Active
+192,EMP-0192,Charlotte Davis,Male,48,Production,Production Supervisor,1,8,Diploma,Full-Time,55224,2009,Active
+193,EMP-0193,Noah Brown,Male,24,Procurement,Procurement Manager,8,8,Diploma,Full-Time,60367,2024,Active
+194,EMP-0194,Donald Green,Female,58,Quality,Quality Engineer,4,10,Diploma,Full-Time,96206,2017,Active
+195,EMP-0195,Michael Scott,Male,49,Quality,Quality Engineer,1,12,Master,Full-Time,96568,2021,Active
+196,EMP-0196,Kevin Harris,Male,56,Production,Operator II,4,8,Bachelor,Full-Time,102689,2009,Active
+197,EMP-0197,Nathan Clark,Male,46,Engineering,Manufacturing Engineer,5,7,Bachelor,Full-Time,100954,2019,Active
+198,EMP-0198,Christian Gonzalez,Male,39,Production,Operator II,1,3,Diploma,Full-Time,104835,2014,Active
+199,EMP-0199,Kevin Smith,Male,34,Maintenance,Maintenance Technician,8,8,Diploma,Contract,73369,2025,Active
+200,EMP-0200,Evelyn Jackson,Female,51,Maintenance,Maintenance Engineer,5,9,Bachelor,Contract,103080,2011,Active

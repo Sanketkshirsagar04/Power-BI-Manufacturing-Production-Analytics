@@ -1,0 +1,23 @@
+ProductKey,ProductCode,ProductName,Category,SubCategory,Brand,Unit,UnitCost,UnitPrice,WeightKG,WarrantyMonths,LifecycleStatus
+1,MON-001,VA2432-H,Monitor,Office,ViewSonic,Unit,82,149,3.8,36,Active
+2,MON-002,VG2448,Monitor,Business,ViewSonic,Unit,108,199,4.5,36,Active
+3,MON-003,VX2428,Monitor,Gaming,ViewSonic,Unit,132,249,5.1,36,Active
+4,MON-004,XG2431,Monitor,Gaming,ViewSonic,Unit,176,329,5.9,36,Active
+5,MON-005,VP2756,Monitor,Professional,ViewSonic,Unit,248,449,6.6,48,Active
+6,MON-006,VG2756-4K,Monitor,Business,ViewSonic,Unit,215,399,6.8,48,Active
+7,MON-007,VX3218-PC,Monitor,Curved,ViewSonic,Unit,188,349,7.2,36,Active
+8,MON-008,ColorPro VP2786,Monitor,Professional,ViewSonic,Unit,365,699,7.8,60,Active
+9,PRO-001,PA503X,Projector,Business,ViewSonic,Unit,240,449,2.4,36,Active
+10,PRO-002,PX748-4K,Projector,Home Theater,ViewSonic,Unit,510,899,4.1,36,Active
+11,PRO-003,M1 Mini Plus,Projector,Portable,ViewSonic,Unit,148,299,0.8,24,Active
+12,PRO-004,LS740HD,Projector,Laser,ViewSonic,Unit,890,1499,6.5,60,Active
+13,IFP-001,ViewBoard IFP6533,Interactive Display,Education,ViewSonic,Unit,1350,2499,42.5,60,Active
+14,IFP-002,ViewBoard IFP7533,Interactive Display,Education,ViewSonic,Unit,1880,3399,58.4,60,Active
+15,IFP-003,ViewBoard IFP8633,Interactive Display,Enterprise,ViewSonic,Unit,2450,4399,72.6,60,Active
+16,IFP-004,ViewBoard Mini,Interactive Display,Portable,ViewSonic,Unit,620,1199,12.8,36,Active
+17,ACC-001,USB-C Dock,Accessory,Docking Station,ViewSonic,Unit,48,99,0.45,24,Active
+18,ACC-002,HDMI Cable,Accessory,Cable,ViewSonic,Unit,4,15,0.12,12,Active
+19,ACC-003,Wireless Presenter,Accessory,Presentation,ViewSonic,Unit,18,39,0.16,24,Active
+20,ACC-004,Wall Mount Kit,Accessory,Mount,ViewSonic,Unit,26,59,1.35,24,Active
+21,ACC-005,Power Adapter,Accessory,Power,ViewSonic,Unit,15,35,0.28,24,Active
+22,ACC-006,Webcam Full HD,Accessory,Camera,ViewSonic,Unit,34,79,0.18,24,Active

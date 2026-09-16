@@ -1,0 +1,18 @@
+SupplierKey,SupplierCode,SupplierName,Category,Country,City,LeadTimeDays,Rating,PaymentTerms,Status
+1,SUP-001,LG Display,Display Panels,South Korea,Seoul,18,4.9,Net 30,Active
+2,SUP-002,AU Optronics,Display Panels,Taiwan,Hsinchu,21,4.7,Net 30,Active
+3,SUP-003,Innolux,Display Panels,Taiwan,Miaoli,20,4.6,Net 45,Active
+4,SUP-004,Intel,Processors,USA,Santa Clara,14,4.9,Net 30,Active
+5,SUP-005,AMD,Processors,USA,Santa Clara,16,4.8,Net 30,Active
+6,SUP-006,Micron,Memory,USA,Boise,19,4.7,Net 45,Active
+7,SUP-007,Kingston,Storage,USA,Fountain Valley,18,4.8,Net 30,Active
+8,SUP-008,Delta Electronics,Power Components,Taiwan,Taipei,22,4.6,Net 45,Active
+9,SUP-009,Lite-On,Power Components,Taiwan,Taipei,23,4.5,Net 45,Active
+10,SUP-010,Foxconn,PCB Assembly,Taiwan,New Taipei,24,4.8,Net 30,Active
+11,SUP-011,Molex,Connectors,USA,Lisle,15,4.7,Net 30,Active
+12,SUP-012,TE Connectivity,Connectors,Switzerland,Schaffhausen,18,4.8,Net 30,Active
+13,SUP-013,Corning,Glass,USA,Corning,17,4.9,Net 30,Active
+14,SUP-014,Jabil,Plastic Components,USA,St. Petersburg,21,4.5,Net 45,Active
+15,SUP-015,Flex,Mechanical Parts,Singapore,Singapore,20,4.6,Net 45,Active
+16,SUP-016,Panasonic Industry,Electronic Components,Japan,Osaka,19,4.8,Net 30,Active
+17,SUP-017,Texas Instruments,Integrated Circuits,USA,Dallas,15,4.9,Net 30,Active

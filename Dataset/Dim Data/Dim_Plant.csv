@@ -1,0 +1,9 @@
+PlantKey,PlantCode,PlantName,City,State,Region,Country,PlantType,EstablishedYear,AreaSqFt,ProductionLines,EmployeeCapacity,WarehouseCapacity,Status
+1,PLT-CA-001,California Manufacturing Plant,Chino,California,West,USA,Primary,2008,420000,12,420,180000,Active
+2,PLT-TX-002,Texas Manufacturing Plant,Dallas,Texas,South,USA,Primary,2011,360000,10,340,150000,Active
+3,PLT-IL-003,Illinois Manufacturing Plant,Chicago,Illinois,Midwest,USA,Primary,2013,310000,9,285,125000,Active
+4,PLT-AZ-004,Arizona Manufacturing Plant,Phoenix,Arizona,West,USA,Assembly,2015,255000,7,225,95000,Active
+5,PLT-GA-005,Georgia Manufacturing Plant,Atlanta,Georgia,Southeast,USA,Assembly,2016,210000,6,180,78000,Active
+6,PLT-OH-006,Ohio Manufacturing Plant,Columbus,Ohio,Midwest,USA,Assembly,2017,175000,5,145,62000,Active
+7,PLT-TN-007,Tennessee Manufacturing Plant,Nashville,Tennessee,South,USA,Packaging,2019,125000,4,110,42000,Active
+8,PLT-NV-008,Nevada Manufacturing Plant,Las Vegas,Nevada,West,USA,Testing,2021,95000,3,85,28000,Active

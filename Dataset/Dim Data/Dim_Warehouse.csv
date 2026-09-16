@@ -1,0 +1,7 @@
+WarehouseKey,WarehouseCode,WarehouseName,City,State,Region,Country,CapacityUnits,WarehouseType,Status
+1,WH-001,California Distribution Center,Los Angeles,California,West,USA,180000,Regional DC,Active
+2,WH-002,Texas Distribution Center,Dallas,Texas,South,USA,150000,Regional DC,Active
+3,WH-003,Illinois Distribution Center,Chicago,Illinois,Midwest,USA,120000,Regional DC,Active
+4,WH-004,Georgia Distribution Center,Atlanta,Georgia,Southeast,USA,90000,Regional DC,Active
+5,WH-005,Ohio Distribution Center,Columbus,Ohio,Central,USA,70000,Regional DC,Active
+6,WH-006,New Jersey Distribution Center,Newark,New Jersey,East,USA,50000,Regional DC,Active
