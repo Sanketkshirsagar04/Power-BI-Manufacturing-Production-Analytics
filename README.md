@@ -191,14 +191,4 @@ The dashboard includes both **Light Mode** and **Dark Mode** versions.
 
 Interactive navigation allows users to switch between Light and Dark dashboard versions.
 
----
 
-# 📐 Key DAX Metrics
-
-Examples of analytical measures used in the project include:
-
-### Production Cost
-
-```DAX
-Production Cost =
-SUM(Fact_Production[ProductionCost])
