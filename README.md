@@ -1,68 +1,46 @@
 # Manufacturing Production Analytics
 
-A comprehensive manufacturing analytics solution built with **SQL Server, Power BI, DAX, Power Query, and Python** to analyze production performance, profitability, quality, procurement, inventory, and operational efficiency.
+A freelance manufacturing analytics project developed using **SQL Server, Power BI, DAX, Power Query, and Python** to transform manufacturing data into an interactive analytics solution.
 
-The project simulates a manufacturing company, **Orion Manufacturing LLC**, operating across multiple U.S. manufacturing plants.
+The project focuses on production performance, profitability, quality, procurement, inventory, maintenance, and operational efficiency.
 
----
-
-## 📊 Project Overview
-
-The goal of this project is to transform raw manufacturing data into an interactive executive analytics solution that helps stakeholders understand:
-
-- Production performance
-- Revenue and profitability
-- Production costs
-- Machine utilization
-- Quality and defect trends
-- Procurement spending
-- Inventory value
-- Maintenance costs
-- Supplier performance
-- Operational efficiency
-
-The solution follows a complete analytics workflow:
-
-**Python → CSV → SQL Server → Power BI → Power BI Service**
+> **Data Confidentiality:** The original client data cannot be shared publicly due to confidentiality. To demonstrate the project structure and dashboard capabilities, a realistic synthetic dataset was generated using Python.
 
 ---
 
-## 🏭 Company
+## 🏭 Project Context
+
+This project was developed as a **freelance analytics project for a manufacturing business**.
+
+Due to client confidentiality, the original client company information, operational data, and business-sensitive information are not included in this repository.
+
+For portfolio demonstration purposes, the project uses the fictional company name:
 
 **Orion Manufacturing LLC**
 
-The simulated company operates manufacturing facilities across the United States, including:
-
-- Chicago, Illinois
-- Dallas, Texas
-- Detroit, Michigan
-- Phoenix, Arizona
-- Atlanta, Georgia
-- Nashville, Tennessee
-- San Jose, California
-- Columbus, Ohio
+The synthetic environment represents a manufacturing organization operating across multiple U.S. locations.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Technology | Purpose |
+| Technology | Usage |
 |---|---|
-| Python | Data generation and preparation |
-| Pandas | Data manipulation |
-| SQL Server | Data storage and analysis |
-| SQL | Data modeling and querying |
+| Python | Synthetic data generation |
+| Pandas | Data preparation |
+| SQL Server | Database development and data storage |
+| SQL | Data querying and database management |
 | Power Query | Data transformation |
-| Power BI | Dashboard and visualization |
-| DAX | KPI and analytical measures |
-| Power BI Service | Report publishing and scheduled refresh |
-| On-Premises Data Gateway | SQL Server connectivity |
+| Power BI | Dashboard development |
+| DAX | KPI and analytical calculations |
+| Power BI Service | Report publishing and monitoring |
+| On-Premises Data Gateway | Secure connectivity between Power BI Service and SQL Server |
 
 ---
 
 ## 🗂️ Data Model
 
-The project uses a **star-schema based data model** consisting of dimension and fact tables.
+The project uses a structured **star-schema data model** consisting of dimension and fact tables.
 
 ### Dimension Tables
 
@@ -83,112 +61,30 @@ The project uses a **star-schema based data model** consisting of dimension and 
 - `Fact_Quality`
 - `Fact_Maintenance`
 
-This structure allows the Power BI model to analyze manufacturing operations across different dimensions such as date, product, plant, machine, supplier, shift, and warehouse.
+The Power BI semantic model is connected to the SQL Server database, with relationships established between the fact and dimension tables for interactive analysis.
 
 ---
 
-# 📈 Dashboard Pages
+## 🔄 Data & System Architecture
 
-## 1. Executive Overview
-
-Provides a high-level view of overall manufacturing performance.
-
-### KPIs
-
-- Production Revenue
-- Total Production
-- Production Profit
-- Good Units
-
-### Visualizations
-
-- Production by Category
-- Monthly Revenue vs Production Cost
-- Production Profit by Product
-- Defect Units by Product
-
----
-
-## 2. Production Analysis
-
-Focuses on production volume, costs, machine performance, and shifts.
-
-### KPIs
-
-- Total Production
-- Production Cost
-- Production Downtime
-- Machine Utilization
-
-### Visualizations
-
-- Monthly Production Trend
-- Production by Machine
-- Production Cost by Product
-- Production by Shift
-
----
-
-## 3. Quality Analysis
-
-Analyzes manufacturing quality and defect performance.
-
-### KPIs
-
-- Total Inspections
-- Defect Units
-- Defect Rate
-- First Pass Yield
-
-### Visualizations
-
-- Monthly Quantity Trend
-- Defect Rate vs First Pass Yield
-- Quality Detail Table
-- Defect Units by Product
-
----
-
-## 4. Operations Analysis
-
-Provides visibility into procurement, inventory, suppliers, and maintenance.
-
-### KPIs
-
-- Procurement Spend
-- Inventory Value
-- Maintenance Cost
-- Supplier Count
-
-### Visualizations
-
-- Procurement Spend by Supplier
-- Inventory Value by Warehouse
-- Maintenance by Machine
-- Procurement Spend by City
-
----
-
-# 🎨 Dashboard Design
-
-The dashboard includes both **Light Mode** and **Dark Mode** versions.
-
-### Light Theme
-
-- Clean white dashboard containers
-- Light gray background
-- Orange accent color
-- Minimal borders
-- Executive-style KPI cards
-
-### Dark Theme
-
-- Dark dashboard background
-- Dark chart containers
-- Orange accent color
-- High-contrast typography
-- Futuristic executive analytics design
-
-Interactive navigation allows users to switch between Light and Dark dashboard versions.
-
-
+```text
+Python
+   │
+   ▼
+Synthetic CSV Data
+   │
+   ▼
+SQL Server
+Manufacturing_Analytics
+   │
+   ▼
+Power BI Desktop
+   │
+   ▼
+Power BI Service
+   │
+   ▼
+On-Premises Data Gateway
+   │
+   ▼
+SQL Server
